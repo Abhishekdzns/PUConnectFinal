@@ -2,6 +2,7 @@
 buildscript {
     dependencies {
         classpath("com.google.relay:com.google.relay.gradle.plugin:0.3.06")
+        classpath("com.android.tools.build:gradle:8.2.0-alpha08")
     }
 }
 
